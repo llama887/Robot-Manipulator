@@ -14,6 +14,7 @@ Or refer to the installation instruction on the Pybullet website.
 
 ``pip install matplotlib numpy scipy``
 
+The solution is entirely contained within project.ipynb.
 
 # ROB2004 Robotics manipulation and locomotion
 
